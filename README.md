@@ -1,2 +1,2 @@
 # ibcr-time-series-analysis
-An introdutory analysis from the IBCR
+An introductory analysis from the IBCR
