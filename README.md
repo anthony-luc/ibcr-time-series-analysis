@@ -23,7 +23,13 @@ Os dados foram coletados a partir do site do Banco Central do Brasil e disponív
 ## 6. Resultados
 
 ## 7. Tecnologias e bibliotecas
-
+- Python
+- Jupiter Notebook
+- Pandas
+- Numpy
+- Statsmodels
+- Matplotlib
 ## 8. Referências
+BANCO CENTRAL DO BRASIL. Sistema Gerenciador de Séries Temporais (SGS). Brasília, DF: Banco Central do Brasil. Disponível em: <https://api.bcb.gov.br/dados/serie/bcdata.sgs.25388/dados?formato=json>. Acesso em: 20 jun. 2026.
 
 # Estrutura do repositório
