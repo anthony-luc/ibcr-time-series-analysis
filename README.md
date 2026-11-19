@@ -10,15 +10,13 @@ Os dados foram coletados a partir do site do Banco Central do Brasil e disponív
 ![IBCR Nordeste – 01/01/2003 a 31/08/2016](figures/img1T.png)
 ## 4. Metodologia
 
-### 4.1. Limpeza de dados
+### 4.1. Tratamento e decomposição da série
 
-### 4.2. Decomposição da variável
+### 4.2. Testes de estacionariedade
 
-### 4.3. Testes de estacionariedade
+### 4.3. Variáveis Dummies
 
-### 4.4. Variáveis Dummies
-
-### 4.5. Modelagem ARIMA
+### 4.4. Modelagem ARIMA
 
 ## 5. Resíduos
 
