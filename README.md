@@ -1,29 +1,29 @@
-# Análise de Séries Temporal do IBCR Nordeste
+# Análise de Séries Temporais do IBCR Nordeste
 
-## Visão geral
+## 1. Visão geral
 
-## Objetivo do projeto
+## 2. Objetivo do projeto
 
-## Coleta de dados
+## 3. Coleta de dados
 
-## Metodologia
+## 4. Metodologia
 
-### Limpeza de dados
+### 4.1. Limpeza de dados
 
-### Decomposição da variável
+### 4.2. Decomposição da variável
 
-### Testes de estacionariedade
+### 4.3. Testes de estacionariedade
 
-### Variáveis Dummies
+### 4.4. Variáveis Dummies
 
-### Modelagem ARIMA
+### 4.5. Modelagem ARIMA
 
-## Resultado
+## 5. Resultado
 
-## Resíduos
+## 6. Resíduos
 
-## Tecnologias e bibliotecas
+## 7. Tecnologias e bibliotecas
 
-## Referências
+## 8. Referências
 
 # Estrutura do repositório
