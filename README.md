@@ -5,8 +5,8 @@ O presente projeto foi realizado como avaliação final da disciplina de Econome
 ## 2. Objetivo do projeto
 O objetivo desse projeto é realizar uma análise do IBCR Nordeste, um índice de atividade econômica calculado pelo Banco Central do Brasil, entre o período de 01/01/2003 até 31/08/2016, coincidindo com os mandatos presidenciais do Partido dos Trabalhadores, desde o presidente Lula até a presidenta Dilma de modo a captar se cada mandato tem efeito significante sobre o indicador. Reforço que esse relatório não tem posicionamento político.
 ## 3. Coleta de dados
-Os dados foram coletados a partir do site do Banco Central do Brasil e disponíveis no link (https://api.bcb.gov.br/dados/serie/bcdata.sgs.25388/dados?formato=json). Nele está disponível a serie temporal completa.
-Apresento abaixo o gráfico da série para o período estudado.
+Os dados foram coletados a partir do site do Banco Central do Brasil e disponíveis no link (https://api.bcb.gov.br/dados/serie/bcdata.sgs.25388/dados?formato=json). Nele está disponível a serie temporal completa. Apresento abaixo o gráfico da série para o período estudado.
+
 ![IBCR Nordeste – 01/01/2003 a 31/08/2016](figures/img1T.png)
 ## 4. Metodologia
 
