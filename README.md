@@ -18,9 +18,9 @@
 
 ### 4.5. Modelagem ARIMA
 
-## 5. Resultado
+## 5. Resíduos
 
-## 6. Resíduos
+## 6. Resultados
 
 ## 7. Tecnologias e bibliotecas
 
